@@ -1,7 +1,9 @@
 # HR-Analytics
 An interactive dashboard in Tableau.
 
-DataSet: [HR Data](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187)  Credits : `@datatutorials1`
+DataSet: [HR Data](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187)  
+
+Credits : `@datatutorials1`
 
 
 The downloaded data was clean and formatted without any duplicates. 
